@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Gem Blockchain
+# Node
 
-Experimental Gem network a fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
+Gem Node a fresh FRAME-based experimental network, ready for hacking :rocket:
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ and play experience for setting up the development environment. To get all the c
 
 ### Rust Setup
 
-First, complete the [basic Rust setup instructions](./docs/rust-setup.md).
+First, complete the [basic Rust setup instructions](https://www.rust-lang.org/learn/get-started).
 
 ### Run
 

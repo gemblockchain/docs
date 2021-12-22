@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Gem Blockchain',
-  tagline: 'A fresh FRAME-based experimental network, ready for hacking',
+  tagline: 'True Web3 technology',
   url: 'https://gemchain.tech',
   baseUrl: '/',
   onBrokenLinks: 'throw',

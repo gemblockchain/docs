@@ -4,14 +4,9 @@ sidebar_position: 1
 
 # Node
 
-Gem Node a fresh FRAME-based experimental network, ready for hacking :rocket:
+Gem Node a fresh FRAME-based Web3 network, ready for hacking :rocket:
 
 ## Getting Started
-
-### Using Nix
-
-Install [nix](https://nixos.org/) and optionally [direnv](https://github.com/direnv/direnv) and [lorri](https://github.com/target/lorri) for a fully plug
-and play experience for setting up the development environment. To get all the correct dependencies activate direnv `direnv allow` and lorri `lorri shell`.
 
 ### Rust Setup
 
@@ -73,4 +68,3 @@ RUST_LOG=debug RUST_BACKTRACE=1 ./target/release/gem -lruntime=debug --dev
 
 Once the Gem node is running locally, you can connect it with **Polkadot-JS Apps** front-end
 to interact with your chain. [Click here](https://polkadot.js.org/apps/#/explorer?rpc=ws://localhost:9944) connecting the Apps to your local Gem node.
-
